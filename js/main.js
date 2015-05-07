@@ -18,7 +18,7 @@ requirejs.config({
         'lib.jq_flot_resize': '../lib/flot/jquery.flot.resize',
         'lib.jq_flot_tooltip': '../lib/flot.tooltip/js/jquery.flot.tooltip.min',
         'bootstrap': '../lib/bootstrap/ui-bootstrap-tpls-0.12.1',
-        'ui_chart': '../lib/bootstrap/chart',
+        'ui_chart': 'modules/chart',
         'myModule': 'mainModul',
         'main_ctrl': 'mainCtrl',
         'main_fctry': 'mainFctry',
