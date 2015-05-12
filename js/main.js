@@ -26,10 +26,7 @@ requirejs.config({
         'dashboard_ctrl': 'controllers/dashboardCtrl',
         'chart_modul': 'directives/chart-directives',
         'morrispage_ctrl': 'controllers/morrisPageCtrl',
-        'flotpage_ctrl': 'controllers/flotPageCtrl',
-
-
-
+        'flotpage_ctrl': 'controllers/flotPageCtrl'
     },
     shim: {
         'angular': {
@@ -71,19 +68,6 @@ requirejs.config({
         'lib.jq_flot_excanvas': {
             deps: ['lib.jq_flot']
         }
-
-        /*'jquery.colorize': {
-            deps: ['jquery'],
-            exports: 'jQuery.fn.colorize'
-        },
-        'jquery.scroll': {
-            deps: ['jquery'],
-            exports: 'jQuery.fn.scroll'
-        },
-        'backbone.layoutmanager': {
-            deps: ['backbone']
-            exports: 'Backbone.LayoutManager'
-        }*/
     }
 });
 

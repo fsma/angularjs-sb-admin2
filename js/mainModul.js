@@ -21,10 +21,6 @@
          'lib.jq_flot_tooltip',
          'lib.jq_flot_time',
          'lib.jq_flot_resize'
-
-
-
-
      ];
 
      define(dependencies, function(angular, ngroute, bootstrap, fsm_accordion, chart_modul, ui_chart, MainCtrl, MainFctry, dashboardCtrl, flotPageCtrl, morrisPageCtrl) {
