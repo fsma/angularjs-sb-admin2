@@ -10,5 +10,5 @@ Angularjs SB Admin 2 App
 - [jQuery v2.1.3](https://jquery.com/)
 - [Angular-Flot v0.0.6 ](http://github.com/develersrl/angular-flot)
 - [flot.js v0.8.3](https://travis-ci.org/flot/flot)
-- [morris.js v0.5.0](https://secure.travis-ci.org/morrisjs/morris.js.png?branch=master)
+- [morris.js v0.5.0](http://morrisjs.github.com/morris.js/)
 - [Raphaël v2.1.1](http://raphaeljs.com)
